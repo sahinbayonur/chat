@@ -80,7 +80,7 @@ class MainActivity : AppCompatActivity() {
                     val params: MutableMap<String, String> = HashMap()
                     //Headers ve API key ekleme
                     params["Content-Type"] = "application/json"
-                    params["Authorization"] = "Bearer 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"
+                    params["Authorization"] = "Bearer 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"
                     return params;
                 }
             }
